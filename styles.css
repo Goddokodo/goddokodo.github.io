@@ -1,10 +1,5 @@
 * {
   font-family: "Raleway", sans-serif;
+  overflow-y: auto;
 }
 
-@media (min-width: 320px) {
-  /* smartphones, iPhone, portrait 480x320 phones */
-  .service i{
-    font-size: 4rem;
-  }
-}
